@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("C:/Users/231629/Desktop/landingpage/images/icon-email.svg");
+}
+.main{
+    position: absolute;
+    left: 1500px;
+    float: right;
+    border: 3px solid white;
+    display: flex;
+  
+   text-align: right;
+   flex-direction: row;
+}
+.one{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.main ul{
+   
+   text-decoration: none;
+   list-style: none;
+   flex-direction: row;
+}
+.list ul  li{
+  border: 2px solid white;
+  text-indent: 4px;
+}
+.position{
+    position:absolute;
+    margin-top: 250px;
+    margin-left: 15px;
+    font-size: large;
+}
+.position p{
+    font-size: large;
+}
+.curve2{
+
+margin-left: 900px;
+}
+button{
+background-color: blue;
+color:white;
+padding: 4px;
+}
+.para{
+    margin-left: 15px;
+    font-size: large;
+    position: relative;
+}
+.curve3{
+    margin-left: 500px;
+    position: absolute;
+}
+#underline{
+    text-decoration: underline;
+    color:green;
+}
+
+
+
+
+
+@media screen and (max-width: 850px) {
+
+}
+
+@media screen and (max-width: 569px) {
+
+}
+
+@media screen and (max-width: 410px) {
+
+}
